@@ -100,7 +100,7 @@ The investment value is then updated by adding the yearly interest and annual in
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/yasmin528/Investment-Calculator.git
 ```
 
 ### 2. Navigate to the project
@@ -123,12 +123,7 @@ npm run dev
 
 The application will be available at the local URL provided by Vite.
 
-## 📸 Preview
 
-Add a screenshot or GIF of the application here:
-
-```markdown
-![Investment Calculator](./screenshot.png)
 ```
 
 ## 🎯 Learning Goals
